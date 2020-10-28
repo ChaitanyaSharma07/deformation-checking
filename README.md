@@ -1,2 +1,2 @@
-# deformation-checking
-this algorithm takes the weight and speed of a car and finds the deformation using a collision and changes the color accordingly
+# p5.play-boilerplate
+Boiler plate for p5.play
